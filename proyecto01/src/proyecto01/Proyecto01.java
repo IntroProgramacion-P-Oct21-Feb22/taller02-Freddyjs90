@@ -16,8 +16,9 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Ejemplo básico de Java");
-        System.out.println("Versionado a través de Git");
-        System.out.println("Manejado desde GitHub");
+        System.out.println("ejemplo d3e java");
+        System.out.println("manejando desde github");
+        System.out.println("versionando a traves de git");
+        System.out.println("Creado por <ubicar su usuario de github>");
     }
 }
